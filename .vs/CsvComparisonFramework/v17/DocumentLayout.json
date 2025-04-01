@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ramkrushna\\Downloads\\SubhamDocs\\repo\\CsvComparisonFramework\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AE776EE2-68F5-4369-B074-0B13B89020FF}|CsvComparisonFramework.csproj|c:\\users\\ramkrushna\\downloads\\subhamdocs\\repo\\csvcomparisonframework\\csvcomparisontests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE776EE2-68F5-4369-B074-0B13B89020FF}|CsvComparisonFramework.csproj|solutionrelative:csvcomparisontests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE776EE2-68F5-4369-B074-0B13B89020FF}|CsvComparisonFramework.csproj|c:\\users\\ramkrushna\\downloads\\subhamdocs\\repo\\csvcomparisonframework\\csvreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE776EE2-68F5-4369-B074-0B13B89020FF}|CsvComparisonFramework.csproj|solutionrelative:csvreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE776EE2-68F5-4369-B074-0B13B89020FF}|CsvComparisonFramework.csproj|c:\\users\\ramkrushna\\downloads\\subhamdocs\\repo\\csvcomparisonframework\\csvcomparator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE776EE2-68F5-4369-B074-0B13B89020FF}|CsvComparisonFramework.csproj|solutionrelative:csvcomparator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE776EE2-68F5-4369-B074-0B13B89020FF}|CsvComparisonFramework.csproj|c:\\users\\ramkrushna\\downloads\\subhamdocs\\repo\\csvcomparisonframework\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE776EE2-68F5-4369-B074-0B13B89020FF}|CsvComparisonFramework.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE776EE2-68F5-4369-B074-0B13B89020FF}|CsvComparisonFramework.csproj|c:\\users\\ramkrushna\\downloads\\subhamdocs\\repo\\csvcomparisonframework\\csvrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE776EE2-68F5-4369-B074-0B13B89020FF}|CsvComparisonFramework.csproj|solutionrelative:csvrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE776EE2-68F5-4369-B074-0B13B89020FF}|CsvComparisonFramework.csproj|c:\\users\\ramkrushna\\downloads\\subhamdocs\\repo\\csvcomparisonframework\\comparisonfailure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE776EE2-68F5-4369-B074-0B13B89020FF}|CsvComparisonFramework.csproj|solutionrelative:comparisonfailure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CsvComparisonTests.cs",
+              "DocumentMoniker": "C:\\Users\\Ramkrushna\\Downloads\\SubhamDocs\\repo\\CsvComparisonFramework\\CsvComparisonTests.cs",
+              "RelativeDocumentMoniker": "CsvComparisonTests.cs",
+              "ToolTip": "C:\\Users\\Ramkrushna\\Downloads\\SubhamDocs\\repo\\CsvComparisonFramework\\CsvComparisonTests.cs",
+              "RelativeToolTip": "CsvComparisonTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T21:35:36.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CsvComparator.cs",
+              "DocumentMoniker": "C:\\Users\\Ramkrushna\\Downloads\\SubhamDocs\\repo\\CsvComparisonFramework\\CsvComparator.cs",
+              "RelativeDocumentMoniker": "CsvComparator.cs",
+              "ToolTip": "C:\\Users\\Ramkrushna\\Downloads\\SubhamDocs\\repo\\CsvComparisonFramework\\CsvComparator.cs",
+              "RelativeToolTip": "CsvComparator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T21:35:05.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CsvReader.cs",
+              "DocumentMoniker": "C:\\Users\\Ramkrushna\\Downloads\\SubhamDocs\\repo\\CsvComparisonFramework\\CsvReader.cs",
+              "RelativeDocumentMoniker": "CsvReader.cs",
+              "ToolTip": "C:\\Users\\Ramkrushna\\Downloads\\SubhamDocs\\repo\\CsvComparisonFramework\\CsvReader.cs",
+              "RelativeToolTip": "CsvReader.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T21:34:39.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ComparisonFailure.cs",
+              "DocumentMoniker": "C:\\Users\\Ramkrushna\\Downloads\\SubhamDocs\\repo\\CsvComparisonFramework\\ComparisonFailure.cs",
+              "RelativeDocumentMoniker": "ComparisonFailure.cs",
+              "ToolTip": "C:\\Users\\Ramkrushna\\Downloads\\SubhamDocs\\repo\\CsvComparisonFramework\\ComparisonFailure.cs",
+              "RelativeToolTip": "ComparisonFailure.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T21:34:05.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CsvRecord.cs",
+              "DocumentMoniker": "C:\\Users\\Ramkrushna\\Downloads\\SubhamDocs\\repo\\CsvComparisonFramework\\CsvRecord.cs",
+              "RelativeDocumentMoniker": "CsvRecord.cs",
+              "ToolTip": "C:\\Users\\Ramkrushna\\Downloads\\SubhamDocs\\repo\\CsvComparisonFramework\\CsvRecord.cs",
+              "RelativeToolTip": "CsvRecord.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T21:32:47.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ramkrushna\\Downloads\\SubhamDocs\\repo\\CsvComparisonFramework\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Ramkrushna\\Downloads\\SubhamDocs\\repo\\CsvComparisonFramework\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T21:31:11.77Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
